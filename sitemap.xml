@@ -3,7 +3,18 @@
 
 <url>
 
-    
+    <loc>https://seodemo-gules.vercel.app</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+
+</url>
+
+<url>
+
+    <loc>https://seodemo-gules.vercel.app/about.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+
 </url>
 
 </urlset>
